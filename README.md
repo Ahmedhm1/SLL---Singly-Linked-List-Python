@@ -13,7 +13,7 @@ This project implements a **Singly Linked List (SLL)** in Python with the follow
 
 ## 🐍 1. Basic Usage (easiest way)
 
-If you just want to try the list without installing anything, copy **`linkedlist.py`** into the same folder as your project and use:
+If you just want to try the list without installing anything, copy **`linked_list.py`** into the same folder as your project and use:
 
 ```python
 from linkedlist import LinkedList
