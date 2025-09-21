@@ -16,7 +16,7 @@ This project implements a **Singly Linked List (SLL)** in Python with the follow
 If you just want to try the list without installing anything, copy **`linked_list.py`** into the same folder as your project and use:
 
 ```python
-from linked_list import LinkedList
+from linkedlist import LinkedList
 
 sll = LinkedList()
 sll.append(10)
@@ -42,7 +42,7 @@ pip install git+https://github.com/Ahmedhm1/Linked-List-Python.git
 Now you can import it anywhere:
 
 ```python
-from linked_list import LinkedList
+from linkedlist import LinkedList
 
 sll = LinkedList()
 sll.append(5)
@@ -56,7 +56,7 @@ print(sll)  # Output: 5 -> 15 -> 25
 ## 🔎 Example Usage
 
 ```python
-from linked_list import LinkedList
+from linkedlist import LinkedList
 
 # Create list and insert values
 sll = LinkedList()
