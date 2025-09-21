@@ -16,7 +16,7 @@ This project implements a **Singly Linked List (SLL)** in Python with the follow
 If you just want to try the list without installing anything, copy **`linked_list.py`** into the same folder as your project and use:
 
 ```python
-from sll import LinkedList
+from linked_list import LinkedList
 
 sll = LinkedList()
 sll.append(10)
