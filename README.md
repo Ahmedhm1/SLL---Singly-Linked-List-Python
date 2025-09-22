@@ -104,4 +104,4 @@ Linked-List-Python/
 ---
 
 ## 📖 Source Code
-➡️ [View `linked_list.py`](./linked_list/linked_list.py) directly if you just want to read the implementation.
+➡️ [View `linked_list.py`](./sll/linked_list.py) directly if you just want to read the implementation.
