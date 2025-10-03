@@ -95,10 +95,9 @@ Linked-List-Python/
 │   ├── __init__.py         # Exports LinkedList
 │   └── linked_list.py      # SLL implementation
 │
-├── test.py                 # Example test file
-├── setup.py                # Package setup script
-├── pyproject.toml          # (Optional) modern build file
-└── README.md
+├── README.md
+├── pyproject.toml    # modern build file
+└── setup.py          # Package setup script
 ```
 
 ---
